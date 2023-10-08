@@ -1,0 +1,16 @@
+{
+	"name": "время монстрников",
+	"short_name": "время монстрников",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	]
+}
